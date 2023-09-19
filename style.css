@@ -127,3 +127,7 @@ input {
 .align{
     text-align: center;    
 }
+
+.search-form{
+    width: 80%;
+}
