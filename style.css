@@ -701,7 +701,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 
 .banner-title {
-  color: var(--eerie-black);
+  color: var(--white);
   font-size: var(--fs-1);
   text-transform: uppercase;
   line-height: 1;
@@ -1808,7 +1808,7 @@ footer {
 
   .banner-text {
     display: block;
-    color: var(--sonic-silver);
+    color: var(--white);
     font-size: var(--fs-7);
     font-weight: var(--weight-500);
     margin-bottom: 10px;
